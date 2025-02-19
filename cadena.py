@@ -1,0 +1,1 @@
+print ("las cadenas o stringen python se delimitan con comillasdobles o simples")
